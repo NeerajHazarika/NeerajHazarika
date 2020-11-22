@@ -1,14 +1,13 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Instagram Follow](https://havecamerawilltravel.com/photographer/files/2016/04/Instagram-Logo-2016-scaled.jpg)](https://www.instagram.com/neerajhazarika_/)
 
 ## I'm a Competitive Coder, Developer, Student!!
 
--  I’m currently learning everything :3
+-  Obsessed with exploring and learning new things
 -  I’m looking to freelance
--  2020 Goals: Contribute more to Open Source projects
--  Fun fact: I love to play football & watch anime
+-  2020 Goals: Contribute more to Open Source projects, Learn Web Dev, 3 star codechhef rating
+-  Fun fact: I love to listen to music, watch anime & tv series
 
 ### Spotify Playing 🎧
 
