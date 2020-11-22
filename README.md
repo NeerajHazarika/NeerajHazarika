@@ -2,8 +2,6 @@
 
 <img src="https://50-best.com/wp-content/uploads/2018/12/suit_and_tie.jpg">
 
-<br />
-
 ## I'm a Competitive Coder, Developer, Student!!
 
 -  Obsessed with exploring and learning new things
