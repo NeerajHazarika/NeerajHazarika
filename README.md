@@ -1,6 +1,6 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 👋
 
-[![Instagram Follow](https://havecamerawilltravel.com/photographer/files/2016/04/Instagram-Logo-2016-scaled.jpg)](https://www.instagram.com/neerajhazarika_/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/neerajhazarika_/)
 
 ## I'm a Competitive Coder, Developer, Student!!
 
