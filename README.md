@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Competitive Coder, Developer, Student!!
 
 -  I’m currently learning everything :3
 -  I’m looking to freelance
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31imrr2t6aoh26jhbxph4ya43nvi)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Neeraj Hazarika Spotify Playing" width="350" />](https://open.spotify.com/user/31imrr2t6aoh26jhbxph4ya43nvi)
 
 ### Connect with me:
 
