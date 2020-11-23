@@ -37,6 +37,7 @@
   <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazarika&show_icons=true&hide_border=true" />
 
 </details>
+<br />
 <details>
   <summary>:zap: Top language</summary>
 
