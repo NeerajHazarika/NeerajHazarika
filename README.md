@@ -30,7 +30,7 @@
 
 <br />
 <br />
-<summary>
+<summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazarika&show_icons=true&hide_border=true" />
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <br />
