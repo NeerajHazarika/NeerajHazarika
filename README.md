@@ -30,14 +30,14 @@
 
 <br />
 <br />
-
+<summary>
   <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazrika&show_icons=true&hide_border=true" />
 <a href="https://github.com/NeerajHazarika/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
 </a> 
-
+</summary>
 
 <br />
 <br />
