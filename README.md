@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
 </details>
 
-<br />
+
 <br />
 <br />
 
