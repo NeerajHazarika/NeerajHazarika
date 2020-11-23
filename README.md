@@ -46,5 +46,14 @@
 
 </details>
 
+---
+## Contact Me 
+Feel free to mail me: **neerajprataphazarika@gmail.com**
+You can also contact with me via [LinkedIn](https://www.linkedin.com/in/neeraj-pratap-hazarika-8800301b8/).
+
+:copyright: ReadMe Designed by [Neeraj Hazarika](https://www.instagram.com/neerajhazarika_/)
+
+---
+
 [instagram]: https://www.instagram.com/neerajhazarika_/
 [linkedin]: https://www.linkedin.com/in/neeraj-pratap-hazarika-8800301b8/
