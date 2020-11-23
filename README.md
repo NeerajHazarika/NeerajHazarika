@@ -31,22 +31,13 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazarika&show_icons=true&hide_border=true" />
-<!--END_SECTION:activity-->
-</details>
-<br />
-<br />
-<br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazrika&show_icons=true&hide_border=true" />
+<a href="https://github.com/NeerajHazarika/github-readme-stats">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
+</a> 
 
-  <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
-
-</details>
 
 <br />
 <br />
