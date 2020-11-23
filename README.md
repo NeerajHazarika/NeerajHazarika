@@ -38,9 +38,6 @@
 </details>
 
 
-<br />
-<br />
-
 ---
 ## Contact Me 
 Feel free to mail me: **neerajprataphazarika@gmail.com**
