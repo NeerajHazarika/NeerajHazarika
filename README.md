@@ -45,7 +45,9 @@
   <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
 
 </details>
-<br>
+
+<br />
+
 ---
 ## Contact Me 
 Feel free to mail me: **neerajprataphazarika@gmail.com**
