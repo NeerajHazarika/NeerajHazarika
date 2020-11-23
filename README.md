@@ -8,7 +8,6 @@
 -  Obsessed with exploring and learning new things
 -  I’m looking to freelance
 -  2020 Goals: Contribute more to Open Source projects, Learn Web Dev, 3 star codechef rating
--  I love to listen to music, watch anime & tv series
 
 ### Spotify Playing 🎧
 
