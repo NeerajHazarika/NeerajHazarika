@@ -7,7 +7,7 @@
 
 -  Obsessed with exploring and learning new things
 -  I’m looking to freelance
--  2020 Goals: Ethical Hacking, Learn Web Dev, 3 star codechef rating
+-  2020 Goals: Learn Ethical Hacking, Web Dev, 3 star codechef rating
 
 ### Spotify Playing 🎧
 
