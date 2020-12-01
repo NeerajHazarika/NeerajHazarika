@@ -27,6 +27,7 @@
 <img align="left" alt="CPP" width="26px" src="https://images.vexels.com/media/users/3/166253/isolated/preview/14bc03b7b1c2c4e2656fd4c0a981cbbc-cpp-programming-language-icon-by-vexels.png" />
 <img align="left" alt="C" width="26px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" />
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS" width="26px" src="css.png" />
 
 <br />
 <br />
