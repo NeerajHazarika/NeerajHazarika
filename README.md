@@ -6,7 +6,7 @@
 ## I'm a Competitive Coder, Developer, Student!!
 
 -  Obsessed with exploring and learning new things
--  I’m looking to freelance
+-  I’m looking for internship
 -  2020 Goals: Learn Ethical Hacking, Web Dev, 3 star codechef rating
 
 ### Spotify Playing 🎧
