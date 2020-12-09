@@ -28,7 +28,7 @@
 <img align="left" alt="C" width="26px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" />
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/kali.png" />
+<img align="left" alt="CSS" width="5%" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/kali.png" />
 
 <br />
 <br />
