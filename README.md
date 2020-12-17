@@ -1,7 +1,7 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 
 <br />
 
-<img src="https://50-best.com/wp-content/uploads/2018/12/suit_and_tie.jpg">
+<img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
 
 ## I'm a Competitive Coder, Developer, Student!!
 
