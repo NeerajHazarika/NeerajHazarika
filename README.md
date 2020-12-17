@@ -1,7 +1,7 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 
 <br />
 
-< width="40%" img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
+<img width="40%" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
 
 ## I'm a Competitive Coder, Developer, Student!!
 
