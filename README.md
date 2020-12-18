@@ -3,7 +3,7 @@
 
 <img width="75%" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
 
-## I'm a Competitive Coder, Developer, Student!!
+## I'm a Competitive Coder, Ethical Hacker, Developer, Student!!
 
 -  Obsessed with exploring and learning new things
 -  I’m looking for internship
