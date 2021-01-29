@@ -8,7 +8,7 @@
 -  Obsessed with exploring and learning new things
 -  I’m looking for internship
 -  Learning DSA, Python, Flutter, Java Script
--  Currently pursuing CS btech course at IIEST, Shibpur, West Bengal
+-  Currently pursuing B.E in CS at IIEST, Shibpur, West Bengal
 - 
 
 ### Spotify Playing 🎧
