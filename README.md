@@ -9,7 +9,7 @@
 -  I’m looking for internship
 -  Learning DSA, Python, Flutter, Java Script
 -  Currently pursuing B.E in C.S at IIEST, Shibpur, West Bengal
-- 
+-  In my free time I watch Anime, Kdramas, English Series or browse through YT
 
 ### Spotify Playing 🎧
 
