@@ -6,7 +6,7 @@
 ## About me :
 
 -  Obsessed with exploring and learning new things
--  I’m looking for internship
+-  looking for internship
 -  Learning DSA, Python, Flutter, Java Script
 -  Currently pursuing B.E in C.S at IIEST, Shibpur, West Bengal
 -  In my free time I watch Anime, Kdramas, English Series, Listen to music or Browse through YT or internet
