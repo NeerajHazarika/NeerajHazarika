@@ -25,7 +25,7 @@
 ### Competitive Programming Handles:
 
 [<img align="left" alt="codechef handle" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/codechef.png" />][codechef]
-[<img align="left" alt="hackerrank handle" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/hackerrank.png" />][hackerrank]
+[<img align="left" alt="Codeforces" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/Code%20Forces.jpg" />][codeforces]
 
 <br />
 
@@ -68,4 +68,4 @@ You can also contact with me via [LinkedIn](https://www.linkedin.com/in/neeraj-p
 [instagram]: https://www.instagram.com/neerajhazarika_/
 [linkedin]: https://www.linkedin.com/in/neeraj-pratap-hazarika-8800301b8/
 [codechef]: https://www.codechef.com/users/neerajhazarika
-[hackerrank]: https://www.hackerrank.com/neerajprataphaz1
+[codeforces]: https://codeforces.com/profile/NeerajHazarika
