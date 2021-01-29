@@ -10,7 +10,7 @@
 -  Learning DSA, Python, Flutter, Java Script
 -  Currently pursuing B.E in C.S.T at IIEST, Shibpur, West Bengal
 -  19 y/o, UG 1
--  In my free time I watch Anime, Kdramas, English Series, Listen to music or Browse through YT or internet
+-  In my free time I like to watch Anime, Kdramas, English Series, Listen to music or Browse through YT or internet
 
 
 ### Spotify Playing 🎧
