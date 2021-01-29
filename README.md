@@ -49,6 +49,7 @@
 
   <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazarika&show_icons=true&hide_border=true" />
   <br />
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
 </details>
 
