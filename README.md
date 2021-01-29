@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
 <br />
 
-<img width="75%" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
+<img align='right' src='https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/20210129_142350.gif' width='200"'>
 
 ## About me :
 
