@@ -25,7 +25,7 @@
 ### Competitive Programming Handles:
 
 [<img align="left" alt="codechef handle" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/codechef.png" />][codechef]
-[<img align="left" alt="Codeforces" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/Code%20Forces.jpg" />][codeforces]
+[<img align="left" alt="Codeforces" width="35px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/Code%20Forces.jpg" />][codeforces]
 
 <br />
 
