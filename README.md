@@ -3,10 +3,13 @@
 
 <img width="75%" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
 
-## I'm a Competitive Coder, Student!!
+## About me :
 
 -  Obsessed with exploring and learning new things
 -  I’m looking for internship
+-  Learning DSA, Python, Flutter, Java Script
+-  Currently pursuing CS btech course at IIEST, Shibpur, West Bengal
+- 
 
 ### Spotify Playing 🎧
 
