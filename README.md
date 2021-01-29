@@ -1,4 +1,5 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritakesh&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
 <br />
 
 <img width="75%" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/gentlemen%20cover%20image.jpeg">
