@@ -48,7 +48,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Neeraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeerajHazarika&show_icons=true&hide_border=true" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajHazarika&show_icons=true&locale=en&layout=compact" alt="neeraj" /></p>
   <br />
   <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
