@@ -51,7 +51,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajHazarika&show_icons=true&locale=en&layout=compact" alt="neeraj" /></p>
   <br />
   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=material-palenight" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritakesh&show_icons=true&locale=en" alt="amritakesh" /></p>
 </details>
 
 <br />
