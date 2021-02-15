@@ -6,7 +6,6 @@
 ## About me :
 
 -  Obsessed with exploring and learning new things
--  Looking for internship
 -  Learning DSA, Python, Flutter, Java Script
 -  Currently pursuing B.E in C.S.T at IIEST, Shibpur, West Bengal
 -  19 y/o, UG 1
