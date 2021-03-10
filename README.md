@@ -38,7 +38,7 @@
 
 [<img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://html.com/)
 
-[<img align="left" alt="CSS" width="30px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />]
+[<img align="left" alt="CSS" width="30px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />](https://www.w3schools.com/css/)
 
 [<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
 
