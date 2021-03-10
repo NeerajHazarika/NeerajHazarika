@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Neeraj Hazarika Spotify Playing" width="350" />](https://open.spotify.com/user/31imrr2t6aoh26jhbxph4ya43nvi)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Neeraj Hazarika Spotify Playing" width="350" />](https://open.spotify.com/user/npn02zhsn7pnuw4x7bxcemda)
 
 ### Connect with me:
 
