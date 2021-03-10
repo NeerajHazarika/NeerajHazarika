@@ -40,6 +40,7 @@
 <img align="left" alt="CSS" width="26px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />
 <br />
 <br />
+<br />
 <img align="left" alt="kali" width="28px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/kali.png" />
 <img align="left" alt="kali" width="26px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/python.png" />
 <br />
