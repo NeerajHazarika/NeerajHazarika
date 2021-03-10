@@ -57,8 +57,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <br />
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajHazarika&show_icons=true&locale=en&layout=compact" alt="neeraj" /></p>
+  <br />
+  <br />
+  <br />
   <br />
   <br />
   <br />
