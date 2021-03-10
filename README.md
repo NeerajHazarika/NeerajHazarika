@@ -36,21 +36,23 @@
 
 [<img align="left" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
 
-[<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
-
 [<img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://html.com/)
+
+[<img align="left" alt="CSS" width="30px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />]
+
+[<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
 
 [<img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
 [<img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
-
-[<img align="left" alt="UBUNTU" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://ubuntu.com/)
 
 [<img align="left" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 
 [<img align="left" alt="VSCODE" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
 [<img align="left" alt="PARROT OS" width="30px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/parrotos.png" />](https://www.parrotsec.org/)
+
+[<img align="left" alt="UBUNTU" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://ubuntu.com/)
 
 <br />
 <br />
