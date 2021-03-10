@@ -1,7 +1,7 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeerajHazarika&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<img align='right' src='https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/20210129_142350.gif' width='400' height="550">
+<img align='right' src='https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/20210129_142350.gif' width='400' height="500">
 
 ## About me :
 
@@ -45,8 +45,6 @@
 [<img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
 [<img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
-
-<br />
 
 [<img align="left" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 
