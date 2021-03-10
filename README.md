@@ -59,7 +59,8 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajHazarika&show_icons=true&locale=en&layout=compact" alt="neeraj" /></p>
   <br />
   <br />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeerajHazarika&show_icons=true&locale=en" alt="amritakesh" /></p>
+  <br />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeerajHazarika&show_icons=true&locale=en" alt="neeraj" /></p>
 </details>
 
 <br />
