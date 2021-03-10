@@ -22,6 +22,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="28px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/youtube.png" />](https://www.youtube.com/channel/UCm3kdMpKOxLVJftVJu26heg)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/medium.png" />](https://neerajprataphazarika.medium.com/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/discord.png" />](https://discord.gg/4mE9yshaTD)
 
 <br />
 
