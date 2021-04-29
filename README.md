@@ -1,6 +1,6 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeerajHazarika&label=Profile%20views&color=0e75b6&style=flat" />
-<align="center"> <img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/tryhackme%20profile.png" alt="TryHackMe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeerajHazarika&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="center"> <img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/tryhackme%20profile.png" alt="TryHackMe" /> </p>
 
 <img align='right' src='https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/20210129_142350.gif' width='400' height="500">
 
