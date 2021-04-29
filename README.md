@@ -1,5 +1,6 @@
 ### Hi there, I'm Neeraj Pratap Hazarika 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeerajHazarika&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<script src="https://tryhackme.com/badge/293304"></script>
 
 <img align='right' src='https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/20210129_142350.gif' width='400' height="500">
 
