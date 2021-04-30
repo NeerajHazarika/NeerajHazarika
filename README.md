@@ -7,7 +7,7 @@
 ## About me :
 
 -  Obsessed with exploring and learning new things
--  Learning DSA, Python, Flutter, Java Script
+-  Learning DSA, Python, Java Script
 -  Currently pursuing B.Tech in C.S.T at IIEST, Shibpur, West Bengal
 -  19 y/o, UG 1
 
