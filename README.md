@@ -11,10 +11,6 @@
 -  Currently pursuing B.Tech in C.S.T at IIEST, Shibpur, West Bengal
 -  19 y/o, UG 1
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Neeraj Hazarika Spotify Playing" width="350" />](https://open.spotify.com/user/npn02zhsn7pnuw4x7bxcemda)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
