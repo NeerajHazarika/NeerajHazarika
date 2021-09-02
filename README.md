@@ -40,7 +40,7 @@
 
 <p align="center">
   
-![Metrics](https://metrics.lecoq.io/NeerajHazarika?template=classic&lines=1&repositories=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&notable.repositories=true&repositories.featured=NeerajHazarika.github.io&config.timezone=Asia%2FCalcutta)
+![Metrics](![Metrics](https://metrics.lecoq.io/NeerajHazarika?template=classic&notable=1&notable.repositories=true&config.timezone=Asia%2FCalcutta))
   
 <br>
 
