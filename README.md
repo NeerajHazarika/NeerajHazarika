@@ -40,7 +40,7 @@
 
 <p align="center">
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeerajHazarika)](https://github.com/NeerajHazarika/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeerajHazarika)](https://github.com/NeerajHazarika/github-readme-stats) -->
 <!--- ![Metrics](https://metrics.lecoq.io/NeerajHazarika?template=classic&notable=1&notable.repositories=true&config.timezone=Asia%2FCalcutta) --->
   
 <br>
