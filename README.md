@@ -9,7 +9,7 @@
 </p>
  -->
 <p align="center">
-  <img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/NeerajHazarika-blueedgetechno/github%20readme/photo_2021-10-09_09-49-24.jpg" width="950" height="600"/>
+  <img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/NeerajHazarika-blueedgetechno/github%20readme/photo_2021-10-09_09-49-24.jpg" width="950"/>
 </p>
 
 <p align="center">
