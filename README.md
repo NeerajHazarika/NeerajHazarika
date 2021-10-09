@@ -4,8 +4,12 @@
 <h3 align="center"> ⭐ Welcome to my open source contribution world.⭐</h3>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/NeerajHazarika/blueedgetechno/blob/patch-1/img/Taekook___Oneshots%20(1).gif" width="950"/>
+</p>
+ -->
+<p align="center">
+  <img src="https://github.com/NeerajHazarika/NeerajHazarika/blob/NeerajHazarika-blueedgetechno/github%20readme/photo_2021-10-09_09-49-24.jpg" width="950" height="600"/>
 </p>
 
 <p align="center">
