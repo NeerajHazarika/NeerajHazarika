@@ -14,7 +14,9 @@
 • Some principles I live my life by: </p>
 - Work Hard, Play Hard </p>
 - You are the Artist, Code is your Art, Make a Masterpiece </p>
-- To Solve any problem in your Life, Solve it's Root cause First </p> 
+- To solve any problem in your Life, Solve it's root cause First, Break down the Problem </p> 
+- Take decisions, Optimize them, and Make them right, Dont be in a state of Indecisiveness </p>
+- Learn from your Mistakes </p> 
 
  <br>
  <br>
@@ -32,41 +34,30 @@
   </thead>
   <tbody> 
    <tr>
-      <td> <b>Software Engineer Intern</b> </td>
-      <td><a href="https://sckilled.com/"/><b>Sckilled</b></a></td>
-      <td> <b>Aug 2022 - Present </b> </td>
+      <td> <b>Full Stack Web Developer Intern</b> </td>
+      <td><a href="https://sckilled.com/"/><b>Dendrite.ai</b></a></td>
+      <td> <b>July 2022 -August 2022</b> </td>
    </tr>
     <tr>
-      <td> <b>Software Developer Intern</b> </td>
-      <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
-      <td> <b>Jan 2022 - May 2022 </b> </td>
+      <td> <b>Backend Developer Intern</b> </td>
+      <td><a href="https://cgiconnects.ml/"/><b>WorldInteria</b></a></td>
+      <td> <b>May 2022 - June 2022</b> </td>
    </tr>  
    <tr>
-      <td> <b> Project Intern </b> </td>
-      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Microsoft</b></a></td>
-      <td> <b> Jan 2022 - Apr 2022  </b> </td>
-   </tr>
+      <td> <b>UI/UX Intern</b> </td>
+      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Aakansha</b></a></td>
+      <td> <b> Sept 2021 - Nov 2021  </b> </td>
    <tr>
-      <td> <b> Fullstack Developer Intern </b> </td>
-      <td><a href="https://www.thesparksfoundationsingapore.org"/><b>Sparks Foundation</b></a></td>
-      <td> <b> Jan 2022 - Mar 2022  </b> </td>
-   </tr>   
-   <tr>
-      <td> <b> Frontend Engineer Intern </b> </td>
-      <td><a href="https://flutrr.com/"/><b>Fluttr</b></a></td>
-      <td> <b> Aug 2021 - Dec 2021  </b> </td>
-   </tr>  
-   <tr>
-      <td> <b> Open source mentor </b> </td>
-      <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Diversion</b></a></td>
-      <td> <b> Jan 2022 - Apr 2022  </b> </td>
-   </tr>
-<tr>
-      <td> <b> Open source mentor </b> </td>
+      <td> <b> Open source contributor </b> </td>
       <td><a href="https://drive.google.com/file/d/1pOnrcZdK3xGWoqT3_KEPXhtv6NkfdNeC/view?usp=sharing"/><b>GirlScript Foundation</b></a></td>
-      <td> <b> Feb 2022 - May 2022  </b> </td>
+      <td> <b> Sept 2021 - Dec 2021  </b> </td>
+   </tr>   
    </tr>
-   </tbody>	 
+      <td> <b> Open source contributor </b> </td>
+      <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Hacktoberfest</b></a></td>
+      <td> <b> Oct 2021 - Oct 2021  </b> </td>
+   </tr>
+   </tbody>	
 </table>
 
 
@@ -83,39 +74,36 @@
   </thead>
   <tbody> 
     <tr>
-      <td> <b>Student Coordinator</b> </td>
-      <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>GDSC UEMK</b></a></td>
-      <td> <b>Aug 2022 - Present </b> </td>
+      <td> <b>Dev Lead</b> </td>
+      <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>CODE IIEST</b></a></td>
+      <td> <b>Nov 2022 - Present </b> </td>
    </tr>  
    <tr>
-      <td> <b>Fullstack Developer</b> </td>
-      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>UEM-IEM Cyclothon</b></a></td>
-      <td> <b>Feb 2022 - Mar 2022 </b> </td>
-   </tr>
-    <tr>
-      <td> <b> Fullstack Developer </b> </td>
-      <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
-      <td> <b> Nov 2021 - Present  </b> </td>
+      <td> <b>Web Dev Lead</b> </td>
+      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>GDSC IIEST</b></a></td>
+      <td> <b>Sept 2022 - Present </b> </td>
    </tr>
    
   </tbody>	 
 </table>
 
+ ## Latest YouTube Videos :play_or_pause_button: :video_camera:
+  <ul>
+    <li><a href="https://youtu.be/Oo_mIyC117k" />How I got USA startup full stack python internship opportunity</a></li>
 
+  </ul>
+<p>➡️ More videos on my channel from <a href="https://www.youtube.com/channel/UCm3kdMpKOxLVJftVJu26heg">YouTube</a></p>
  
  ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
-    <li><a href="https://medium.com/@ItsRoy69/all-about-hackathons-67260c45394d" />All about Hackathons</a></li>
-    <li><a href="https://itsroy69-blogs.hashnode.dev/how-to-make-ghost-buster-game-in-pygame" />How to make Ghost Buster Game in Pygame</a></li>
-    <li><a href="https://medium.com/@ItsRoy69/demystifying-dark-side-of-web3-0-45dc542bdff1" />Demystifying dark side of web3.0</a></li>
-    <li><a href="https://medium.com/@ItsRoy69/ethereum-2-0-2a7c09f75ef5" />ETHEREUM 2.0-The MERGE?</a></li>
+    <li><a href="https://medium.com/@neerajprataphazarika/how-to-hide-data-in-an-image-275c0442073c" />How to hide data in an image</a></li>
 
   </ul>
-<p>➡️ More blog posts from <a href="https://medium.com/@ItsRoy69">Medium</a> or <a href="https://hashnode.com/@ItsRoy69">Hashnode</a></p>
+<p>➡️ More blog posts from <a href="https://medium.com/@neerajprataphazarika">Medium</a></p>
 
 
 
- ## Popular Open-Source Repositories you can Contribute🔺👑
+<!--  ## Popular Open-Source Repositories you can Contribute🔺👑
 <table>
   <thead align="center">
     <tr border: none;>
@@ -139,23 +127,12 @@
             <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
      </tr> 
   </tbody>	 
-</table>
+</table> -->
 
 
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
-  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
-  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Vice Chancellor's Award for Best Techno Wiz, 2022 </a></li> 
-  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Microsoft Learn Student Ambassador among 100,000 registrations around the world (2022-24)</a></li> 
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In IemHacks (IEMK,2022)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 2nd Prize In Ureckathon (UEMK,2022)</a></li>  
-  <li><a href="https://devfolio.co/projects/doctalk-95b6" /> Most Creative Use of GitHub Prize In Hack4Bengal(SNU,2022)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 3rd Prize In DecHack (SNU,2021)</a></li> 
-  <li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li>
-  <li><a href="https://dev.to/itsroy69/since-i-want-something-to-post--3ojn" />Digital Ocean HacktoberFest Qualified (2021)</a></li>
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Mental Health Track Winner at HackNITR Oct 2021 </a></li>
      
   </details>
 
