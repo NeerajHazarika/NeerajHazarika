@@ -1,60 +1,170 @@
-<h3 align="center">Hi, Homo sapiens 👋</h3>
+<!-- ![Banner](https://user-images.githubusercontent.com/78967360/158324969-32ed223d-7156-48b7-b04c-5382bb5496d3.png) -->
 
-<br>
-<h3 align="center"> ⭐ Welcome to my open source contribution world.⭐</h3>
-<br>
+<h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Neeraj Pratap Hazarika !!</h2>
+<h3  align="center">An impact oriented Developer who is currently pursuing his B.Tech degree in CSE from Indian Institute of Engineering Science & Technology, Shibpur.</h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
-<!-- <p align="center">
-  <img src="https://github.com/NeerajHazarika/blueedgetechno/blob/patch-1/img/Taekook___Oneshots%20(1).gif" width="950"/>
-</p>
- -->
+<!-- <img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="400" height="300"/>  -->
 
+<h2 align="left"> About me: 🤔</h2>
+• 🛠 I’m currently building my own tech agency </p>
+• 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on innovative startup ideas </p>
+• 💬 Always ready to have an interesting conversation about anything under tech </p>
+• 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=neerajprataphazarika@gmail.com">here .</p></a>
+• Some principles I live my life by: </p>
+- Work Hard, Play Hard </p>
+- You are the Artist, Code is your Art, Make a Masterpiece </p>
+- To Solve any problem in your Life, Solve it's Root cause First </p> 
+
+ <br>
+ <br>
+  
+ 
+ <h2 align="left">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody> 
+   <tr>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://sckilled.com/"/><b>Sckilled</b></a></td>
+      <td> <b>Aug 2022 - Present </b> </td>
+   </tr>
+    <tr>
+      <td> <b>Software Developer Intern</b> </td>
+      <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
+      <td> <b>Jan 2022 - May 2022 </b> </td>
+   </tr>  
+   <tr>
+      <td> <b> Project Intern </b> </td>
+      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Microsoft</b></a></td>
+      <td> <b> Jan 2022 - Apr 2022  </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Fullstack Developer Intern </b> </td>
+      <td><a href="https://www.thesparksfoundationsingapore.org"/><b>Sparks Foundation</b></a></td>
+      <td> <b> Jan 2022 - Mar 2022  </b> </td>
+   </tr>   
+   <tr>
+      <td> <b> Frontend Engineer Intern </b> </td>
+      <td><a href="https://flutrr.com/"/><b>Fluttr</b></a></td>
+      <td> <b> Aug 2021 - Dec 2021  </b> </td>
+   </tr>  
+   <tr>
+      <td> <b> Open source mentor </b> </td>
+      <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Diversion</b></a></td>
+      <td> <b> Jan 2022 - Apr 2022  </b> </td>
+   </tr>
+<tr>
+      <td> <b> Open source mentor </b> </td>
+      <td><a href="https://drive.google.com/file/d/1pOnrcZdK3xGWoqT3_KEPXhtv6NkfdNeC/view?usp=sharing"/><b>GirlScript Foundation</b></a></td>
+      <td> <b> Feb 2022 - May 2022  </b> </td>
+   </tr>
+   </tbody>	 
+</table>
+
+
+
+ <h2 align="left">🏃 Volunteering Experience :🙋‍♂️: :desktop_computer: </h2> 
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td> <b>Student Coordinator</b> </td>
+      <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>GDSC UEMK</b></a></td>
+      <td> <b>Aug 2022 - Present </b> </td>
+   </tr>  
+   <tr>
+      <td> <b>Fullstack Developer</b> </td>
+      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>UEM-IEM Cyclothon</b></a></td>
+      <td> <b>Feb 2022 - Mar 2022 </b> </td>
+   </tr>
+    <tr>
+      <td> <b> Fullstack Developer </b> </td>
+      <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
+      <td> <b> Nov 2021 - Present  </b> </td>
+   </tr>
+   
+  </tbody>	 
+</table>
+
+
+ 
+ ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
+  <ul>
+    <li><a href="https://medium.com/@ItsRoy69/all-about-hackathons-67260c45394d" />All about Hackathons</a></li>
+    <li><a href="https://itsroy69-blogs.hashnode.dev/how-to-make-ghost-buster-game-in-pygame" />How to make Ghost Buster Game in Pygame</a></li>
+    <li><a href="https://medium.com/@ItsRoy69/demystifying-dark-side-of-web3-0-45dc542bdff1" />Demystifying dark side of web3.0</a></li>
+    <li><a href="https://medium.com/@ItsRoy69/ethereum-2-0-2a7c09f75ef5" />ETHEREUM 2.0-The MERGE?</a></li>
+
+  </ul>
+<p>➡️ More blog posts from <a href="https://medium.com/@ItsRoy69">Medium</a> or <a href="https://hashnode.com/@ItsRoy69">Hashnode</a></p>
+
+
+
+ ## Popular Open-Source Repositories you can Contribute🔺👑
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+	 <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+	    <td><a href="https://github.com/ItsRoy69/DocTalk"><b>DocTalk</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>    
+      </tr>	
+      <tr>
+            <td><a href="https://github.com/ItsRoy69/VestTech"><b>VestTech</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
+     </tr> 
+  </tbody>	 
+</table>
+
+
+ 
+<h2 align="left">Achievements 🏆🏅🎉</h2> 
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Vice Chancellor's Award for Best Techno Wiz, 2022 </a></li> 
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Microsoft Learn Student Ambassador among 100,000 registrations around the world (2022-24)</a></li> 
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In IemHacks (IEMK,2022)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 2nd Prize In Ureckathon (UEMK,2022)</a></li>  
+  <li><a href="https://devfolio.co/projects/doctalk-95b6" /> Most Creative Use of GitHub Prize In Hack4Bengal(SNU,2022)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 3rd Prize In DecHack (SNU,2021)</a></li> 
+  <li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li>
+  <li><a href="https://dev.to/itsroy69/since-i-want-something-to-post--3ojn" />Digital Ocean HacktoberFest Qualified (2021)</a></li>
+     
+  </details>
+
+ <hr>
+
+<h2 align="left"> 🌐Let's Connect: </h2>
 <p align="center">
- <a target="_blank" href=https://github.com/blueedgetechno>
-  <img src=https://img.shields.io/github/followers/NeerajHazarika?label=follow%20me&style=social />
-  &nbsp;
-</a>
-  
-  <a target="_blank" href=https://linktr.ee/NeerajHazarika>
-  <img src=https://github.com/NeerajHazarika/blueedgetechno/blob/patch-1/img/download.svg width=20 />
-  &nbsp;
-</a>
-  
+<a href="https://dev.to/itsroy69"><img style="padding-right:10px" align="left" alt="db's DEV" width="24px" src="iconfinder_dev_1632517.png" /></a>
+<a href="https://twitter.com/itsmeroy69"><img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" /></a>
+<a href="https://www.linkedin.com/in/jyotirmoyroy69/"><img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="iconfinder_linkedin_circle_294706.png" align="center" /></a>
+<a href="https://www.instagram.com/itsmeroy69/"><img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="iconfinder_instagram_1632517.png" /></a>
 </p>
-
-<hr>
-<h3 align="center">Show me your cards</h3>
-<br>
-
-<p align="center">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-<img src=https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg alt=cpp width="30" height="30"/>
-<img src=https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg alt=c width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
-</p>
-
-<br><br>
-
-<p align="center">
-  
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeerajHazarika)](https://github.com/NeerajHazarika/github-readme-stats) -->
-<!--- ![Metrics](https://metrics.lecoq.io/NeerajHazarika?template=classic&notable=1&notable.repositories=true&config.timezone=Asia%2FCalcutta) --->
-  
-<br>
-
-</p>
-
-<br>
-
-|![](https://github-readme-stats.vercel.app/api?username=NeerajHazarika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-![](https://activity-graph.herokuapp.com/graph?username=NeerajHazarika&theme=redical)
-
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=NeerajHazarika" alt="blueedge"/> </p>  </p>
-<br>
