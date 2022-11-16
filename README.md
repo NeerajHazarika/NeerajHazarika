@@ -2,7 +2,7 @@
 
 <h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Neeraj Pratap Hazarika !!</h2>
 <h3  align="center">An impact oriented Developer who is currently pursuing his B.Tech degree in CSE from Indian Institute of Engineering Science & Technology, Shibpur.</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
+<!-- <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p> -->
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="400" height="300"/>  -->
 
@@ -12,11 +12,11 @@
 • 💬 Always ready to have an interesting conversation about anything under tech </p>
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=neerajprataphazarika@gmail.com">here .</p></a>
 • Some principles I live my life by: </p>
-- Work Hard, Play Hard </p>
-- You are the Artist, Code is your Art, Make a Masterpiece </p>
-- To solve any problem in your Life, Solve it's root cause First, Break down the Problem </p> 
-- Take decisions, Optimize them, and Make them right, Dont be in a state of Indecisiveness </p>
-- Learn from your Mistakes </p> 
+➡ Work Hard, Play Hard </p>
+➡ You are the Artist, Code is your Art, Make a Masterpiece </p>
+➡ To solve any problem in your Life, Solve it's root cause First, Break down the Problem </p> 
+➡ Take decisions, Optimize them, and Make them right, Dont be in a state of Indecisiveness </p>
+➡ Learn from your Mistakes </p> 
 
  <br>
  <br>
@@ -35,26 +35,26 @@
   <tbody> 
    <tr>
       <td> <b>Full Stack Web Developer Intern</b> </td>
-      <td><a href="https://sckilled.com/"/><b>Dendrite.ai</b></a></td>
+      <td><a href="https://dendrite.ai/home"/><b>Dendrite.ai</b></a></td>
       <td> <b>July 2022 -August 2022</b> </td>
    </tr>
     <tr>
       <td> <b>Backend Developer Intern</b> </td>
-      <td><a href="https://cgiconnects.ml/"/><b>WorldInteria</b></a></td>
+      <td><a href="https://worldinteria.com"/><b>WorldInteria</b></a></td>
       <td> <b>May 2022 - June 2022</b> </td>
    </tr>  
    <tr>
       <td> <b>UI/UX Intern</b> </td>
-      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Aakansha</b></a></td>
+      <td><a href="https://www.linkedin.com/company/aakankshaecommerce/"/><b>Aakansha</b></a></td>
       <td> <b> Sept 2021 - Nov 2021  </b> </td>
    <tr>
       <td> <b> Open source contributor </b> </td>
-      <td><a href="https://drive.google.com/file/d/1pOnrcZdK3xGWoqT3_KEPXhtv6NkfdNeC/view?usp=sharing"/><b>GirlScript Foundation</b></a></td>
+      <td><a href="https://gwoc.girlscript.tech"/><b>GirlScript Foundation</b></a></td>
       <td> <b> Sept 2021 - Dec 2021  </b> </td>
    </tr>   
    </tr>
       <td> <b> Open source contributor </b> </td>
-      <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Hacktoberfest</b></a></td>
+      <td><a href="https://hacktoberfest.com"/><b>Hacktoberfest</b></a></td>
       <td> <b> Oct 2021 - Oct 2021  </b> </td>
    </tr>
    </tbody>	
@@ -75,12 +75,12 @@
   <tbody> 
     <tr>
       <td> <b>Dev Lead</b> </td>
-      <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>CODE IIEST</b></a></td>
+      <td><a href="https://codeiiest.org"/><b>CODE IIEST</b></a></td>
       <td> <b>Nov 2022 - Present </b> </td>
    </tr>  
    <tr>
       <td> <b>Web Dev Lead</b> </td>
-      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>GDSC IIEST</b></a></td>
+      <td><a href="https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah/"/><b>GDSC IIEST</b></a></td>
       <td> <b>Sept 2022 - Present </b> </td>
    </tr>
    
@@ -132,7 +132,7 @@
 
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Mental Health Track Winner at HackNITR Oct 2021 </a></li>
+  <li><a href="https://drive.google.com/file/d/1Wi8LYBn3I6zqGd1lFtgKOZ85TfrghNI5/view" /> Mental Health Track Winner at HackNITR Oct 2021 </a></li>
      
   </details>
 
