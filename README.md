@@ -36,7 +36,7 @@
    <tr>
       <td> <b>Full Stack Web Developer Intern</b> </td>
       <td><a href="https://dendrite.ai/home"/><b>Dendrite.ai</b></a></td>
-      <td> <b>July 2022 -August 2022</b> </td>
+      <td> <b>July 2022 - August 2022</b> </td>
    </tr>
     <tr>
       <td> <b>Backend Developer Intern</b> </td>
