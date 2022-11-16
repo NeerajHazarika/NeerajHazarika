@@ -13,7 +13,7 @@
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=neerajprataphazarika@gmail.com">here .</p></a>
 • Some principles I live my life by: </p>
 ➡ Work Hard, Play Hard </p>
-➡ You are the Artist, Code is your Art, Make a Masterpiece </p>
+➡ You are the Artist, Your work is your Art, Make a Masterpiece </p>
 ➡ To solve any problem in your Life, Solve it's root cause First, Break down the Problem </p> 
 ➡ Take decisions, Optimize them, and Make them right, Dont be in a state of Indecisiveness </p>
 ➡ Learn from your Mistakes </p> 
