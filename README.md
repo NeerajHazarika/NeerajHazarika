@@ -17,10 +17,6 @@
 ➡ To solve any problem in your Life, Solve it's root cause First, Break down the Problem </p> 
 ➡ Take decisions, Optimize them, and Make them right, Dont be in a state of Indecisiveness </p>
 ➡ Learn from your Mistakes </p> 
-
- <br>
- <br>
-  
  
  <h2 align="left">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
