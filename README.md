@@ -44,14 +44,14 @@
       <td> <b>May 2022 - June 2022</b> </td>
    </tr>  
    <tr>
-      <td> <b>UI/UX Intern</b> </td>
-      <td><a href="https://www.linkedin.com/company/aakankshaecommerce/"/><b>Aakansha</b></a></td>
-      <td> <b> Sept 2021 - Nov 2021  </b> </td>
-   <tr>
       <td> <b> Open source contributor </b> </td>
       <td><a href="https://gwoc.girlscript.tech"/><b>GirlScript Foundation</b></a></td>
       <td> <b> Sept 2021 - Dec 2021  </b> </td>
-   </tr>   
+   </tr>  
+   <tr>
+      <td> <b>UI/UX Intern</b> </td>
+      <td><a href="https://www.linkedin.com/company/aakankshaecommerce/"/><b>Aakansha</b></a></td>
+      <td> <b> Sept 2021 - Nov 2021  </b> </td> 
    </tr>
       <td> <b> Open source contributor </b> </td>
       <td><a href="https://hacktoberfest.com"/><b>Hacktoberfest</b></a></td>
@@ -140,8 +140,7 @@
 
 <h2 align="left"> 🌐Let's Connect: </h2>
 <p align="center">
-<a href="https://dev.to/itsroy69"><img style="padding-right:10px" align="left" alt="db's DEV" width="24px" src="iconfinder_dev_1632517.png" /></a>
-<a href="https://twitter.com/itsmeroy69"><img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" /></a>
-<a href="https://www.linkedin.com/in/jyotirmoyroy69/"><img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="iconfinder_linkedin_circle_294706.png" align="center" /></a>
-<a href="https://www.instagram.com/itsmeroy69/"><img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="iconfinder_instagram_1632517.png" /></a>
+<a href="https://twitter.com/hazarika_neeraj"><img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="/github%20readme/iconfinder_twitter_circle_294709.png" /></a>
+<a href="https://www.linkedin.com/in/neerajhazarika/"><img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="/github%20readme/iconfinder_linkedin_circle_294706.png" align="center" /></a>
+<a href="https://www.instagram.com/neerajhazarika_/"><img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="/github%20readme/iconfinder_instagram_1632517.png" /></a>
 </p>
