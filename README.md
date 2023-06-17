@@ -7,7 +7,6 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="400" height="300"/>  -->
 
 <h2 align="left"> About me: 🤔</h2>
-• 🛠 I’m currently building my own tech agency </p>
 • 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on innovative startup ideas </p>
 • 💬 Always ready to have an interesting conversation about anything under tech </p>
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=neerajprataphazarika@gmail.com">here .</p></a>
