@@ -23,7 +23,8 @@
 - Contributed to a face mask detection project and a machine learning video.
 - Skills: Data Science, GitHub, Python, Git, Deep LearningUI Designer
 
-### AAKANKSHA · Internship, Sep 2021 - Dec 2021
+### UI Designer @AAKANKSHA 
+- Internship, Sep 2021 - Dec 2021
 - Designed an eCommerce food website.
 - Skills: Figma
 
@@ -36,13 +37,13 @@
 - Managed a Discord server, solved coding doubts, and created content.
 
 ## 🎓 Education
-### Offenburg University of Applied Sciences
+### Masters at Offenburg University of Applied Sciences
 - Master of Science in Enterprise and IT Security
 - Oct 2024 - Feb 2026
 - Grade: 1.7/4.0 (Best: 1.0)
 - Skills: Software Security, Mobile Security, and more.
 
-### Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+### Bachelors at Indian Institute of Engineering Science and Technology (IIEST), Shibpur
 - Bachelor of Technology - BTech, Computer Science
 - August 2020 - Jun 2024
 - Grade: 8.46/10 (Best: 10)
