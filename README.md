@@ -53,6 +53,15 @@
 - Skills: Computer Networking, Data Science, and more.
 
 ## 🛠️ Projects
+### E-commerce Microservices on AWS EKS
+- AUG 2025
+- Deployed and managed a microservices-based e-commerce application using Kubernetes on AWS EKS. The project included designing a secure VPC architecture, configuring auto-scaling, implementing Helm charts for release management, and setting up Prometheus-Grafana for monitoring to achieve 99.9% uptime.
+- Technologies Used: AWS EKS, EC2, VPC, RDS, S3, IAM, Route 53, ELB, CloudWatch, Kubernetes, Helm, Docker, Prometheus, Grafana
+
+### Kubernetes Fundamentals Project
+- AUG 2025
+- Designed and deployed Kubernetes resources demonstrating core concepts including Deployments, Services, PersistentVolumes, StatefulSets, HorizontalPodAutoscalers, Secrets, and Roles. This project focused on implementing secure, scalable, and fault-tolerant workloads with role-based access control and resource optimization strategies.
+
 ### Implementation & Integration of a Custom Optical Character Recognition (OCR) Module in an Incentivised Blockchain-based Document Verification Framework
 - Associated with Indian Institute of Engineering Science and Technology (IIEST), Shibpur
 - Aug 2023 - May 2024
