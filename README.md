@@ -1,4 +1,4 @@
-# DevSecOps Enthusiast | AWS | Kubernetes | CICD | MSc in IT Security
+# DevSecOps & Blockchain Enthusiast | AWS | Kubernetes | CICD | MSc in IT Security
 
 ## 💼 Experience
 ### Open Source Developer @Chaincode Labs
