@@ -1,6 +1,10 @@
 # DevSecOps & Blockchain Enthusiast | AWS | Kubernetes | CICD | MSc in IT Security
 
 ## 💼 Experience
+### Master Thesis @Institute of Reliable Embedded Systems and Communication Electronics (ivESK)
+- Part Time, Offenburg, Nov 2025 - March 2026
+- Integrating and Implementation of 5g and TSN in NXP Switch
+
 ### Open Source Developer @Chaincode Labs
 - Part-time, Remote, Jan 2025 - Mar 2025
 - Interacted with Bitcoin RPC and built a minimal Bitcoin wallet using Rust.
