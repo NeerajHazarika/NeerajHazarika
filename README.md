@@ -4,6 +4,7 @@
 ### Master Thesis @Institute of Reliable Embedded Systems and Communication Electronics (ivESK)
 - Part Time, Offenburg, Nov 2025 - March 2026
 - Integrating and Implementation of 5g and TSN in NXP Switch
+- Skills: Embedded Linux, Networking (5g, TSN), NXP Layerscape LS1028A Switch
 
 ### Open Source Developer @Chaincode Labs
 - Part-time, Remote, Jan 2025 - Mar 2025
